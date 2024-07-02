@@ -1,9 +1,13 @@
-# React + Vite
+Goshop is an e-commerce website built using React JS, HTML, CSS and JavaScript.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:-
+Login & Logout functionality.
+Users can select to display products in a single category.
+Users can filter and search the Products according to their requirement.
+Users can click on any product to get more information including Pricing, Description, Image.
+Related Products suggestions are also given.
+Users can select Products and Add them to their shopping cart.
+In Shopping cart, Users can see Total Price and Total quantity of the Products.
+Users can also Clear the Cart.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Goshop" 
