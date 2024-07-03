@@ -1,4 +1,4 @@
-Goshop is an e-commerce website built using React JS, HTML, CSS and JavaScript.
+**Goshop** is an e-commerce website built using React JS, HTML, CSS and JavaScript.
 
 # Features:-
 + Login & Logout functionality.
